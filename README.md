@@ -1,3 +1,4 @@
 # Gauravchorage-demo
 This is my first Git repository
-Authoe - Gaurav Chorage
+<br>
+Author - Gaurav Chorage
